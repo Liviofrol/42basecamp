@@ -1,6 +1,0 @@
-{
-	"terminal.integrated.shell.linux": "/bin/bash",
-	"workbench.statusBar.visible": false,
-        "git.terminalAuthentication": false,
-        "github.gitAuthentication": false
-}
