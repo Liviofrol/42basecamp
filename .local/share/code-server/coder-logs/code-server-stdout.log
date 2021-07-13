@@ -316,3 +316,58 @@
 [2021-07-12T12:32:15.316Z] info  HTTP server listening on http://0.0.0.0:8080
 [2021-07-12T12:32:15.316Z] info    - No authentication
 [2021-07-12T12:32:15.316Z] info    - Not serving HTTPS
+[2021-07-12T19:42:39.269Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-12T19:42:39.275Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-12T19:42:39.275Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-12T19:42:39.280Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-12T19:42:39.280Z] info    - No authentication
+[2021-07-12T19:42:39.280Z] info    - Not serving HTTPS
+[2021-07-12T19:42:43.424Z] warn  discarding socket connection: vscode is not running
+[2021-07-12T19:42:43.696Z] warn  discarding socket connection: vscode is not running
+[2021-07-12T19:42:58.718Z] warn  discarding socket connection: vscode is not running
+[2021-07-12T19:42:59.019Z] warn  discarding socket connection: vscode is not running
+[2021-07-12T19:43:20.151Z] warn  discarding socket connection: vscode is not running
+[2021-07-12T19:43:20.451Z] warn  discarding socket connection: vscode is not running
+[2021-07-12T22:35:57.979Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-12T22:35:57.985Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-12T22:35:57.985Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-12T22:35:57.990Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-12T22:35:57.990Z] info    - No authentication
+[2021-07-12T22:35:57.990Z] info    - Not serving HTTPS
+[2021-07-12T23:54:42.353Z] warn  discarding socket connection: vscode is not running
+[2021-07-12T23:54:42.993Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:11:15.607Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:11:15.898Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:11:37.316Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:11:37.594Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:11:59.348Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:11:59.627Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:12:20.385Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:12:20.660Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:12:41.336Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:12:41.645Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:12:52.998Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:13:01.706Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:13:27.199Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:13:42.270Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T00:13:49.031Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T04:52:07.502Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-13T04:52:07.508Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-13T04:52:07.508Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-13T04:52:07.513Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-13T04:52:07.513Z] info    - No authentication
+[2021-07-13T04:52:07.513Z] info    - Not serving HTTPS
+[2021-07-13T05:22:15.001Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T05:22:15.641Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T07:42:43.476Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-13T07:42:43.482Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-13T07:42:43.482Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-13T07:42:43.487Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-13T07:42:43.487Z] info    - No authentication
+[2021-07-13T07:42:43.487Z] info    - Not serving HTTPS
+[2021-07-13T10:32:43.012Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-13T10:32:43.017Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-13T10:32:43.017Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-13T10:32:43.022Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-13T10:32:43.022Z] info    - No authentication
+[2021-07-13T10:32:43.022Z] info    - Not serving HTTPS

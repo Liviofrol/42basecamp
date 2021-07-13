@@ -36,3 +36,11 @@ Use '--' to separate paths from revisions, like this:
 > git remote --verbose
 > git config --get commit.template
 > git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :eu/aceito.txt
+> git ls-files --stage -- /home/lifranca/Eu Aceito/eu/aceito.txt
+> git cat-file -s e3cf97b7554fc8c648dfc4892f3100c693020b3d
