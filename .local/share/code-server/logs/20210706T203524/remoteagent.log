@@ -1,0 +1,2 @@
+[2021-07-06 20:35:28.375] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/lifranca/.local/share/code-server/User/snippets'
+[2021-07-06 20:35:28.375] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/lifranca/.local/share/code-server/User/snippets'

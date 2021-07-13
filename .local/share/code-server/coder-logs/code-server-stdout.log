@@ -1,0 +1,318 @@
+[2020-10-15T22:12:06.359Z] info  Using user-data-dir ~/.local/share/code-server
+[2020-10-15T22:12:06.365Z] info  code-server 3.5.0 de41646fc402b968ca6d555fdf2da7de9554d28a
+[2020-10-15T22:12:06.369Z] info  HTTP server listening on http://0.0.0.0:8080
+[2020-10-15T22:12:06.369Z] info    - No authentication
+[2020-10-15T22:12:06.369Z] info    - Not serving HTTPS
+[2021-07-06T14:00:52.378Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-06T14:00:52.384Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-06T14:00:52.384Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-06T14:00:52.390Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-06T14:00:52.390Z] info    - No authentication
+[2021-07-06T14:00:52.390Z] info    - Not serving HTTPS
+[2021-07-06T17:03:14.743Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-06T17:03:14.748Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-06T17:03:14.749Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-06T17:03:14.754Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-06T17:03:14.754Z] info    - No authentication
+[2021-07-06T17:03:14.754Z] info    - Not serving HTTPS
+[2021-07-06T19:52:06.305Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-06T19:52:06.311Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-06T19:52:06.311Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-06T19:52:06.316Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-06T19:52:06.316Z] info    - No authentication
+[2021-07-06T19:52:06.316Z] info    - Not serving HTTPS
+[2021-07-06T22:41:20.241Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-06T22:41:20.247Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-06T22:41:20.247Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-06T22:41:20.255Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-06T22:41:20.255Z] info    - No authentication
+[2021-07-06T22:41:20.255Z] info    - Not serving HTTPS
+[2021-07-07T01:31:44.550Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-07T01:31:44.556Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-07T01:31:44.556Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-07T01:31:44.561Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-07T01:31:44.561Z] info    - No authentication
+[2021-07-07T01:31:44.561Z] info    - Not serving HTTPS
+[2021-07-07T04:22:23.726Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-07T04:22:23.732Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-07T04:22:23.732Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-07T04:22:23.737Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-07T04:22:23.737Z] info    - No authentication
+[2021-07-07T04:22:23.737Z] info    - Not serving HTTPS
+[2021-07-07T07:13:57.624Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-07T07:13:57.629Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-07T07:13:57.629Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-07T07:13:57.634Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-07T07:13:57.634Z] info    - No authentication
+[2021-07-07T07:13:57.634Z] info    - Not serving HTTPS
+[2021-07-07T10:05:20.084Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-07T10:05:20.095Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-07T10:05:20.096Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-07T10:05:20.102Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-07T10:05:20.103Z] info    - No authentication
+[2021-07-07T10:05:20.103Z] info    - Not serving HTTPS
+[2021-07-07T12:56:10.664Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-07T12:56:10.670Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-07T12:56:10.670Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-07T12:56:10.674Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-07T12:56:10.675Z] info    - No authentication
+[2021-07-07T12:56:10.675Z] info    - Not serving HTTPS
+[2021-07-07T15:47:17.108Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-07T15:47:17.114Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-07T15:47:17.114Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-07T15:47:17.119Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-07T15:47:17.119Z] info    - No authentication
+[2021-07-07T15:47:17.119Z] info    - Not serving HTTPS
+[2021-07-07T16:50:42.609Z] warn  discarding socket connection: vscode is not running
+[2021-07-07T16:59:57.416Z] warn  discarding socket connection: vscode is not running
+[2021-07-07T16:59:57.702Z] warn  discarding socket connection: vscode is not running
+[2021-07-07T17:00:17.751Z] warn  discarding socket connection: vscode is not running
+[2021-07-07T17:00:18.033Z] warn  discarding socket connection: vscode is not running
+[2021-07-07T17:00:38.093Z] warn  discarding socket connection: vscode is not running
+[2021-07-07T17:00:38.382Z] warn  discarding socket connection: vscode is not running
+[2021-07-07T18:37:48.056Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-07T18:37:48.061Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-07T18:37:48.061Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-07T18:37:48.066Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-07T18:37:48.066Z] info    - No authentication
+[2021-07-07T18:37:48.066Z] info    - Not serving HTTPS
+[2021-07-07T21:27:28.575Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-07T21:27:28.580Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-07T21:27:28.580Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-07T21:27:28.585Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-07T21:27:28.585Z] info    - No authentication
+[2021-07-07T21:27:28.585Z] info    - Not serving HTTPS
+[2021-07-08T00:17:53.945Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-08T00:17:53.950Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-08T00:17:53.950Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-08T00:17:53.955Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-08T00:17:53.955Z] info    - No authentication
+[2021-07-08T00:17:53.955Z] info    - Not serving HTTPS
+[2021-07-08T03:08:14.146Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-08T03:08:14.151Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-08T03:08:14.151Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-08T03:08:14.156Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-08T03:08:14.156Z] info    - No authentication
+[2021-07-08T03:08:14.156Z] info    - Not serving HTTPS
+[2021-07-08T05:59:40.602Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-08T05:59:40.607Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-08T05:59:40.607Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-08T05:59:40.612Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-08T05:59:40.612Z] info    - No authentication
+[2021-07-08T05:59:40.612Z] info    - Not serving HTTPS
+[2021-07-08T08:51:14.502Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-08T08:51:14.507Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-08T08:51:14.507Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-08T08:51:14.512Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-08T08:51:14.512Z] info    - No authentication
+[2021-07-08T08:51:14.512Z] info    - Not serving HTTPS
+[2021-07-08T11:42:37.698Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-08T11:42:37.704Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-08T11:42:37.704Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-08T11:42:37.710Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-08T11:42:37.710Z] info    - No authentication
+[2021-07-08T11:42:37.710Z] info    - Not serving HTTPS
+[2021-07-08T14:33:12.204Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-08T14:33:12.209Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-08T14:33:12.209Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-08T14:33:12.214Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-08T14:33:12.214Z] info    - No authentication
+[2021-07-08T14:33:12.214Z] info    - Not serving HTTPS
+[2021-07-08T17:23:45.477Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-08T17:23:45.483Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-08T17:23:45.483Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-08T17:23:45.488Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-08T17:23:45.488Z] info    - No authentication
+[2021-07-08T17:23:45.488Z] info    - Not serving HTTPS
+[2021-07-08T20:14:44.285Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-08T20:14:44.290Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-08T20:14:44.290Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-08T20:14:44.295Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-08T20:14:44.295Z] info    - No authentication
+[2021-07-08T20:14:44.295Z] info    - Not serving HTTPS
+[2021-07-08T23:04:27.868Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-08T23:04:27.874Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-08T23:04:27.874Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-08T23:04:27.879Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-08T23:04:27.880Z] info    - No authentication
+[2021-07-08T23:04:27.880Z] info    - Not serving HTTPS
+[2021-07-09T01:54:40.674Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-09T01:54:40.679Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-09T01:54:40.679Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-09T01:54:40.685Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-09T01:54:40.685Z] info    - No authentication
+[2021-07-09T01:54:40.685Z] info    - Not serving HTTPS
+[2021-07-09T04:45:38.080Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-09T04:45:38.086Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-09T04:45:38.086Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-09T04:45:38.090Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-09T04:45:38.091Z] info    - No authentication
+[2021-07-09T04:45:38.091Z] info    - Not serving HTTPS
+[2021-07-09T07:37:13.945Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-09T07:37:13.951Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-09T07:37:13.951Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-09T07:37:13.955Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-09T07:37:13.956Z] info    - No authentication
+[2021-07-09T07:37:13.956Z] info    - Not serving HTTPS
+[2021-07-09T10:28:48.422Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-09T10:28:48.427Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-09T10:28:48.427Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-09T10:28:48.432Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-09T10:28:48.432Z] info    - No authentication
+[2021-07-09T10:28:48.432Z] info    - Not serving HTTPS
+[2021-07-09T13:19:30.638Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-09T13:19:30.643Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-09T13:19:30.644Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-09T13:19:30.649Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-09T13:19:30.649Z] info    - No authentication
+[2021-07-09T13:19:30.649Z] info    - Not serving HTTPS
+[2021-07-09T16:09:45.237Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-09T16:09:45.245Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-09T16:09:45.246Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-09T16:09:45.253Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-09T16:09:45.254Z] info    - No authentication
+[2021-07-09T16:09:45.254Z] info    - Not serving HTTPS
+[2021-07-09T18:59:58.433Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-09T18:59:58.439Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-09T18:59:58.439Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-09T18:59:58.444Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-09T18:59:58.444Z] info    - No authentication
+[2021-07-09T18:59:58.444Z] info    - Not serving HTTPS
+[2021-07-09T21:50:09.259Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-09T21:50:09.264Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-09T21:50:09.265Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-09T21:50:09.269Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-09T21:50:09.269Z] info    - No authentication
+[2021-07-09T21:50:09.269Z] info    - Not serving HTTPS
+[2021-07-10T00:41:39.064Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-10T00:41:39.069Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-10T00:41:39.069Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-10T00:41:39.074Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-10T00:41:39.074Z] info    - No authentication
+[2021-07-10T00:41:39.074Z] info    - Not serving HTTPS
+[2021-07-10T03:32:12.242Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-10T03:32:12.247Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-10T03:32:12.247Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-10T03:32:12.252Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-10T03:32:12.252Z] info    - No authentication
+[2021-07-10T03:32:12.252Z] info    - Not serving HTTPS
+[2021-07-10T06:23:50.116Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-10T06:23:50.121Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-10T06:23:50.121Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-10T06:23:50.126Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-10T06:23:50.126Z] info    - No authentication
+[2021-07-10T06:23:50.126Z] info    - Not serving HTTPS
+[2021-07-10T09:15:23.323Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-10T09:15:23.328Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-10T09:15:23.328Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-10T09:15:23.333Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-10T09:15:23.333Z] info    - No authentication
+[2021-07-10T09:15:23.333Z] info    - Not serving HTTPS
+[2021-07-10T12:06:35.895Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-10T12:06:35.901Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-10T12:06:35.901Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-10T12:06:35.905Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-10T12:06:35.906Z] info    - No authentication
+[2021-07-10T12:06:35.906Z] info    - Not serving HTTPS
+[2021-07-10T14:57:10.147Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-10T14:57:10.152Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-10T14:57:10.152Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-10T14:57:10.157Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-10T14:57:10.157Z] info    - No authentication
+[2021-07-10T14:57:10.157Z] info    - Not serving HTTPS
+[2021-07-10T17:47:28.404Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-10T17:47:28.410Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-10T17:47:28.410Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-10T17:47:28.415Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-10T17:47:28.415Z] info    - No authentication
+[2021-07-10T17:47:28.415Z] info    - Not serving HTTPS
+[2021-07-10T20:37:55.094Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-10T20:37:55.100Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-10T20:37:55.100Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-10T20:37:55.105Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-10T20:37:55.105Z] info    - No authentication
+[2021-07-10T20:37:55.105Z] info    - Not serving HTTPS
+[2021-07-10T23:28:33.129Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-10T23:28:33.135Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-10T23:28:33.135Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-10T23:28:33.139Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-10T23:28:33.140Z] info    - No authentication
+[2021-07-10T23:28:33.140Z] info    - Not serving HTTPS
+[2021-07-11T02:19:21.681Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-11T02:19:21.687Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-11T02:19:21.687Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-11T02:19:21.692Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-11T02:19:21.692Z] info    - No authentication
+[2021-07-11T02:19:21.692Z] info    - Not serving HTTPS
+[2021-07-11T05:10:39.421Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-11T05:10:39.427Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-11T05:10:39.427Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-11T05:10:39.431Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-11T05:10:39.432Z] info    - No authentication
+[2021-07-11T05:10:39.432Z] info    - Not serving HTTPS
+[2021-07-11T08:02:14.379Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-11T08:02:14.385Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-11T08:02:14.385Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-11T08:02:14.390Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-11T08:02:14.390Z] info    - No authentication
+[2021-07-11T08:02:14.390Z] info    - Not serving HTTPS
+[2021-07-11T10:53:49.610Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-11T10:53:49.616Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-11T10:53:49.616Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-11T10:53:49.620Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-11T10:53:49.621Z] info    - No authentication
+[2021-07-11T10:53:49.621Z] info    - Not serving HTTPS
+[2021-07-11T13:45:07.448Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-11T13:45:07.454Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-11T13:45:07.454Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-11T13:45:07.459Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-11T13:45:07.459Z] info    - No authentication
+[2021-07-11T13:45:07.459Z] info    - Not serving HTTPS
+[2021-07-11T16:36:04.147Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-11T16:36:04.152Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-11T16:36:04.152Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-11T16:36:04.157Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-11T16:36:04.157Z] info    - No authentication
+[2021-07-11T16:36:04.157Z] info    - Not serving HTTPS
+[2021-07-11T19:26:37.967Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-11T19:26:37.972Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-11T19:26:37.972Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-11T19:26:37.977Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-11T19:26:37.977Z] info    - No authentication
+[2021-07-11T19:26:37.977Z] info    - Not serving HTTPS
+[2021-07-11T22:16:50.595Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-11T22:16:50.600Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-11T22:16:50.600Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-11T22:16:50.606Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-11T22:16:50.606Z] info    - No authentication
+[2021-07-11T22:16:50.606Z] info    - Not serving HTTPS
+[2021-07-12T01:07:08.809Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-12T01:07:08.815Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-12T01:07:08.815Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-12T01:07:08.820Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-12T01:07:08.820Z] info    - No authentication
+[2021-07-12T01:07:08.820Z] info    - Not serving HTTPS
+[2021-07-12T03:58:30.889Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-12T03:58:30.895Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-12T03:58:30.895Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-12T03:58:30.900Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-12T03:58:30.900Z] info    - No authentication
+[2021-07-12T03:58:30.900Z] info    - Not serving HTTPS
+[2021-07-12T06:50:07.530Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-12T06:50:07.535Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-12T06:50:07.535Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-12T06:50:07.540Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-12T06:50:07.541Z] info    - No authentication
+[2021-07-12T06:50:07.541Z] info    - Not serving HTTPS
+[2021-07-12T09:41:30.543Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-12T09:41:30.548Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-12T09:41:30.548Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-12T09:41:30.554Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-12T09:41:30.554Z] info    - No authentication
+[2021-07-12T09:41:30.554Z] info    - Not serving HTTPS
+[2021-07-12T12:32:15.306Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-12T12:32:15.311Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-12T12:32:15.311Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-12T12:32:15.316Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-12T12:32:15.316Z] info    - No authentication
+[2021-07-12T12:32:15.316Z] info    - Not serving HTTPS
